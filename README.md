@@ -1,4 +1,5 @@
 # Wintellect Xamarin Webinar (March 23, 2017)
+* Xamarin Forms views reference: https://developer.xamarin.com/guides/xamarin-forms/user-interface/controls/views/
 * Issue with Xamarin.Forms in a .NET Standard library: https://bugzilla.xamarin.com/show_bug.cgi?id=53060
 * Issue with debugging a .NET Standard Library: https://bugzilla.xamarin.com/show_bug.cgi?id=53474
 ---
